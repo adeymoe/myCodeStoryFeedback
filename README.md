@@ -1,5 +1,5 @@
 # FEEDBACK-APP
-This app is designed to collect and document client feedback efficiently. Built with PHP and an integrated database, it ensures seamless data storage and accessibility. The system is optimized for future enhancements to meet diverse personal needs.
+This app is designed to collect and document client and recruiters feedback efficiently. Built with PHP and an integrated database, it ensures seamless data storage and accessibility. The system is optimized for future enhancements to meet diverse personal needs.
 
 **Link to project:** https://mycodestoryfeedback.onrender.com/
 
