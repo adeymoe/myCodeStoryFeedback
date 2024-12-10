@@ -58,7 +58,7 @@
       </div>
       <div class="mb-3">
         <label for="body" class="form-label">Feedback</label>
-        <textarea class="form-control <?php echo $bodyErr ? 'is-invalid': null; ?>" id="body" name="body" placeholder="Enter your feedback"></textarea>
+        <textarea class="form-control <?php echo $bodyErr ? 'is-invalid': null; ?>" id="body" name="body" placeholder="Please leave a feedback(For recruiters I would appreciate a feedback on what stood out and ways I can improve)"></textarea>
         <div class="invalid-feedback">
           <?php echo $bodyErr; ?>
         </div>
