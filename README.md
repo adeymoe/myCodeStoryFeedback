@@ -23,7 +23,7 @@ Take a look at these couple examples that I have in my own portfolio:
 
 **MarketPlace:** https://marketplace-dummy-frontend.vercel.app/
 
-**New Masan Co. LTD:** https://github.com/alecortega/patch-panel
+**New Masan Co. LTD:** https://masan-construction.vercel.app/
 
 
 
